@@ -1,0 +1,7 @@
+name: SyncedPlayerData
+version: 1.0.0
+main: com.github.kimjihyo.syncedplayerdata.SyncedPlayerData
+description: Get your player data synced across servers
+author: Jihyo Kim
+website: https://github.com/kimjihyo
+api-version: 1.19
